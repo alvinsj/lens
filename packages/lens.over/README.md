@@ -1,6 +1,6 @@
 # lens.over
 
-Following implemetation of [`ramda.over`](http://ramdajs.com/docs/#over)
+Following implementation of [`ramda.over`](http://ramdajs.com/docs/#over)
 
 ## example
 ```js
