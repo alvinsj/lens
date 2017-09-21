@@ -1,0 +1,16 @@
+{
+  "name": "lens.lenses",
+  "version": "0.0.1",
+  "description":
+    "import {lensPath, lensProp, lensIndex, lens} from 'lens.lenses'",
+  "main": "dist/bundle.js",
+  "repository": "github:blacktangent/lens",
+  "author": "alvinsj <text@alvinsj.net>",
+  "license": "MIT",
+  "dependencies": {
+    "invariant": "^2.2.2"
+  },
+  "scripts": {
+    "prepublish": "rollup --config ../../rollup.config.js"
+  }
+}
