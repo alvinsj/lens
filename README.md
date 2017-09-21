@@ -1,6 +1,6 @@
 # lens
 
-`lens` in javascript, following implementation seen in [`ramda`](http://ramdajs.com/docs/)
+`lens` implementation in javascript, as seen in [`ramda`](http://ramdajs.com/docs/)
 
 This repo consists of:
 
