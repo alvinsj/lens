@@ -1,0 +1,15 @@
+{
+  "name": "lens.view",
+  "version": "0.0.1",
+  "description": "view(lens, data)",
+  "main": "dist/bundle.js",
+  "repository": "github:blacktangent/lens",
+  "author": "alvinsj <text@alvinsj.net>",
+  "license": "MIT",
+  "dependencies": {
+    "invariant": "^2.2.2"
+  },
+  "scripts": {
+    "prepublish": "rollup --config ../../rollup.config.js"
+  }
+}
