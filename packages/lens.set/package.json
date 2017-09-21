@@ -1,0 +1,16 @@
+{
+  "name": "lens.set",
+  "version": "0.0.1",
+  "description": "set(lens, value, data)",
+  "main": "dist/bundle.js",
+  "repository": "github:blacktangent/lens",
+  "author": "alvinsj <text@alvinsj.net>",
+  "license": "MIT",
+  "dependencies": {
+    "immutability-helper": "^2.4.0",
+    "invariant": "^2.2.2"
+  },
+  "scripts": {
+    "prepublish": "rollup --config ../../rollup.config.js"
+  }
+}
