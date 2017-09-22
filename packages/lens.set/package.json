@@ -1,6 +1,6 @@
 {
   "name": "lens.set",
-  "version": "0.0.1-alpha.1",
+  "version": "0.0.1-alpha.2",
   "description": "set(lens, value, data)",
   "main": "dist/bundle.js",
   "repository": "github:blacktangent/lens",
