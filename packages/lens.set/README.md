@@ -16,5 +16,5 @@ console.log(helloWorld === helloSingapore); // false
 ## properties
 - properties inherited from [`immutability-helper`]()
   - [maintains immutability](https://github.com/kolodny/immutability-helper#immutability-helper)
-  - [autovivification](https://github.com/kolodny/immutability-helper#autovivification)
+  - [no autovivification](https://github.com/kolodny/immutability-helper#autovivification)
   - maintains value if there is no change
